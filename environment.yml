@@ -1,0 +1,4 @@
+name: example-environment
+
+dependencies:
+  - python=2.6
