@@ -7,3 +7,5 @@ iPython notebook using sklearn to predict breast cancer using logistic regressio
 Click on the above badge to run the interactable ipython notebook. It may take a few seconds to load. 
 
 Once it loads you can change the values in the ipython notebook and see it affects the output instantly!
+
+Works faster in chrome 
